@@ -4,16 +4,16 @@
 
 /** Black */
 @font-face {
-  font-family: "SF Display";
+  font-family: "SF Pro Display";
   font-weight: 900;
-  src: url("https://sf.abarba.me/SF-UI-Display-Black.otf");
+  src: url(/code/fonts/SF-UI-Display-Heavy.otf);
 }
 
 /** Bold */
 @font-face {
-  font-family: "SF Display";
+  font-family: "SF Pro Display";
   font-weight: 700;
-  src: url("https://sf.abarba.me/SF-UI-Display-Bold.otf");
+  src: url(/code/fonts/SF-UI-Display-Bold.otf);
 }
 
 /** Heavy */
