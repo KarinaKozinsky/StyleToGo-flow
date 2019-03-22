@@ -2,25 +2,20 @@
  * SF UI Display
  *---------------------------------------------------------------------------*/
 
-/** Black */
+/** Heavy */
 @font-face {
   font-family: "SF Pro Display Heavy";
   font-weight: 900;
+  font-style: "Heavy";
   src: url(/code/fonts/SF-UI-Display-Heavy.otf);
 }
 
 /** Bold */
 @font-face {
   font-family: "SF Pro Display Bold";
+  font-style: "Bold";
   font-weight: 700;
   src: url(/code/fonts/SF-UI-Display-Bold.otf);
-}
-
-/** Heavy */
-@font-face {
-  font-family: "SF Display";
-  font-weight: 800;
-  src: url("https://sf.abarba.me/SF-UI-Display-Heavy.otf");
 }
 
 /** Light */
@@ -71,9 +66,10 @@
 
 /** Bold */
 @font-face {
-  font-family: "SF Text";
+  font-family: "SF Pro Text Bold";
+  font-style: "Bold";
   font-weight: 700;
-  src: url("https://sf.abarba.me/SF-UI-Text-Bold.otf");
+  src: url(/code/fonts/SF-UI-Text-Bold.otf);
 }
 
 /** Bold Italic */
@@ -132,6 +128,7 @@
 /** Regular */
 @font-face {
   font-family: "SF Pro Text Regular";
+  font-style: "Regular";
   font-weight: 400;
   src: url("/code/fonts/SF-UI-Text-Regular.otf");
 }
@@ -146,9 +143,9 @@
 
 /** Semibold */
 @font-face {
-  font-family: "SF Text";
+  font-family: "SF Pro Text Semibold";
   font-weight: 600;
-  src: url("https://sf.abarba.me/SF-UI-Text-Semibold.otf");
+  src: url(/code/fonts/SF-UI-Text-Semibold.otf);
 }
 
 /** Semibold Italic */
