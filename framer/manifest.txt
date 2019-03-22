@@ -61,6 +61,7 @@ design/images/EzyhkSVQtgk4seCedFGycSwwlY.png
 design/images/AJr7eNz7huuvyKSSfdDYDi6juwg.png
 design/images/5b5juNsVJIMklTWtFPuGHbVlUw.png
 design/images/1h1SvZuYVEdAWSdmZxQFgFvOR1w.jpg
+code/fonts/fonts.css
 build/style.css
 build/standalone.js
 build/react.development.js
