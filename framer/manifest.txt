@@ -62,6 +62,8 @@ design/images/AJr7eNz7huuvyKSSfdDYDi6juwg.png
 design/images/5b5juNsVJIMklTWtFPuGHbVlUw.png
 design/images/1h1SvZuYVEdAWSdmZxQFgFvOR1w.jpg
 code/fonts/fonts.css
+code/fonts/SF-UI-Text-Regular.otf
+code/fonts/SF-UI-Text-Light.otf
 code/fonts/SF-UI-Display-Heavy.otf
 code/fonts/SF-UI-Display-Bold.otf
 build/style.css

@@ -4,14 +4,14 @@
 
 /** Black */
 @font-face {
-  font-family: "SF Pro Display";
+  font-family: "SF Pro Display Heavy";
   font-weight: 900;
   src: url(/code/fonts/SF-UI-Display-Heavy.otf);
 }
 
 /** Bold */
 @font-face {
-  font-family: "SF Pro Display";
+  font-family: "SF Pro Display Bold";
   font-weight: 700;
   src: url(/code/fonts/SF-UI-Display-Bold.otf);
 }
@@ -101,9 +101,9 @@
 
 /** Light */
 @font-face {
-  font-family: "SF Text";
+  font-family: "SF Pro Text Light";
   font-weight: 200;
-  src: url("https://sf.abarba.me/SF-UI-Text-Light.otf");
+  src: url(/code/fonts/SF-UI-Text-Light.otf);
 }
 
 /** Light Italic */
@@ -131,9 +131,9 @@
 
 /** Regular */
 @font-face {
-  font-family: "SF Text";
+  font-family: "SF Pro Text Regular";
   font-weight: 400;
-  src: url("https://sf.abarba.me/SF-UI-Text-Regular.otf");
+  src: url("/code/fonts/SF-UI-Text-Regular.otf");
 }
 
 /** Regular Italic */
