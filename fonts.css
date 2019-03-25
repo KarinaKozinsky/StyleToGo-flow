@@ -4,10 +4,11 @@
 
 /** Heavy */
 @font-face {
-  font-family: "SF Pro Display Heavy";
+  font-family: "SF Pro Display";
   font-weight: 900;
   font-style: "Heavy";
-  src: url(/code/fonts/SF-UI-Display-Heavy.otf);
+  src: local(SF-Pro-Display-Heavy) url(/code/fonts/SF-Pro-Display-Heavy.otf),
+    format("otf");
 }
 
 /** Bold */
@@ -15,7 +16,7 @@
   font-family: "SF Pro Display";
   font-style: "Bold";
   font-weight: 700;
-  src: local(SF-UI-Display-Bold), url(/code/fonts/SF-UI-Display-Bold.otf),
+  src: local(SF-UI-Display-Bold), url(/code/fonts/SF-Pro-Display-Bold.otf),
     format("otf");
 }
 
